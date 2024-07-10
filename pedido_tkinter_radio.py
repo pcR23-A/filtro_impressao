@@ -48,7 +48,7 @@ def main():
 # Configuração da interface gráfica
 root = tk.Tk()
 root.title("Filtro de Impressão")
-root.iconbitmap(r"C:\Users\Administrador\Downloads\html\html\filtro\logo.ico")
+root.iconbitmap("filtro_final\logo.ico")
 
 # Definir o tamanho da janela e torná-la não redimensionável
 root.geometry("500x680")
